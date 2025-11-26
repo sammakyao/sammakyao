@@ -49,9 +49,3 @@ as healthy as possible by removing obstacles like poverty, discrimination, and l
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thrift](https://img.shields.io/badge/Apache_Thrift-1D3531?style=for-the-badge&logo=apache&logoColor=white)
 
-# 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammakyao&show_icons=true&theme=midnight-owl&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammakyao&layout=compact&theme=midnight-owl&hide_border=true" height="180" alt="languages graph"  />
-</div>
