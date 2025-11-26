@@ -1,15 +1,21 @@
 ## Hi there 👋
 
-# 💫 About Me:
-
 Hi there! I'm **Samwel Makyao**.
 
-🔭 I’m currently a **Software Engineering Intern at Intuit Credit Karma** working on AI agents and hallucination guardrails.
-🎓 I'm a Computer Science student at the **University of North Texas** (Class of '26).
-🤝 I love collaborating on **AI/ML**, **Civic Tech**, and **Full Stack Development** projects.
-🌱 I’m deeply interested in **LLMs**, **RAG (Retrieval-Augmented Generation)**, and **Distributed Systems**.
-💬 Ask me about **Java**, **React**, or building **AI Agents**.
+🔭 Prev a **Software Engineering Intern at Intuit Credit Karma** where, I built Recs Lens, Credit Karma's first internal Slack-native AI agent that interprets and debugs production 
+logs for systems delivering 3.8B+ monthly personalized recommendations, contributing to ~80% of CK's revenue. It reduced debugging time from 2 hours to 30 seconds and now 
+supports 22+ stakeholders across Engineering, Product, and Data Science. 
+🎓 I'm a Computer Science student at the **University of North Texas**.
+🤝 I love collaborating on **AI/ML**, **UI/UX**, **Web Accessibility** and **Full Stack Development** projects that operate at scale.
 
+---
+
+## What I'm Working On 👋
+
+🔭 I’m currently building a first AI health agent and one stop center for everything agentic health, working collaboratively with health professionals, family networks groups, and researchers. 
+Having experienced preterm birth from family members, I'm motivate to build this free tool that will help everyone and everywhere. I believe that everyone should have a fair opportunity to be 
+as healthy as possible by removing obstacles like poverty, discrimination, and lack of access to quality education, housing, and healthcare
+🔭 I’m also working with a team of five to revolutionize productivity apps by creating what we believe is the most efficient productivity app for everyone. 
 ---
 
 # 💻 Tech Stack:
